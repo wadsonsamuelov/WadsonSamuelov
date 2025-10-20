@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Wadson Samuel Oliveira Venancio</h1>
+<h1 align="center"> Wadson Samuel Oliveira Venancio</h1>
 
 <p align="center">
   🎓 Estudante de <b>Engenharia de Software</b> no <b>Centro Universitário de Brasília (CEUB)</b><br>
