@@ -1,40 +1,57 @@
-<h1 align="center"> Wadson Samuel Oliveira Venancio</h1>
+<h1 align="center">💻 Wadson Samuel Oliveira Venancio</h1>
 
 <p align="center">
   🎓 Estudante de <b>Engenharia de Software</b> no <b>Centro Universitário de Brasília (CEUB)</b><br>
-  💡 Apaixonado por <b>tecnologia</b>, <b>inovação</b> e <b>crescimento constante</b><br>
+  💡 Gosto de <b>tecnologia</b>, <b>inovação</b> e <b>crescimento pessoal</b><br>
   📍 <b>Brasília - DF</b>
 </p>
 
 ---
 
 ## 🚀 Sobre Mim  
-Sou uma pessoa movida por **curiosidade e propósito**.  
-Gosto de transformar ideias em soluções reais e funcionais.  
-Acredito que **constância + estudo = resultados extraordinários**.  
+Sou movido por **curiosidade e propósito**.  
+Transformo **ideias em soluções reais e funcionais**, sempre buscando evolução.  
+Acredito que **constância + disciplina = resultados excelentes**.  
 
-Atualmente estou focado em:  
-- 🐍 Desenvolvimento com **Python**  
-- ☕ Programação orientada a objetos com **Java**  
-- 🗄️ Modelagem e gestão de **Banco de Dados**  
+**Atualmente focado em:**
+- 🐍 Desenvolvimento com **Python**
+- ☕ Programação orientada a objetos com **Java**
+- 🗄️ Modelagem e gestão de **Banco de Dados**
 - ⚙️ Criação de **Soluções Digitais** práticas e eficientes  
 
 ---
 
-## 🎓 Progresso Acadêmico  
-**Engenharia de Software – CEUB**  
-📅 Início: 2025 | 🎯 Conclusão Prevista: 2029  
+## 🎓 Formação Acadêmica  
+🎯 **Engenharia de Software – CEUB**  
+📅 Início: 2025 | 🎓 Conclusão Prevista: 2029  
+📘 **Progresso:** 2º semestre de 8  
 
-🧭 **Progresso:** 2 de 8 semestres  
-<p align="center">
-</p>
+---
+
+## 🏅 Certificados
+
+| **Marketing Digital** Udemy  🏅 |
+| **Tráfego Pago e Estratégias Online**  Gabriel Gomes🏅 |
+| **Feira do Empreendedor** SEBRAE e PIER21 🏅 
+| **Leitura Objetiva e Alta Performance** James Bauer 🏅 |
+
+---
+
+## 💪 Esportes
+
+Pratico algumas atividades:  
+- 🏋️‍♂️ Academia  
+- 🥋 Jiu-Jitsu  
+- 🏃 Corrida  
 
 ---
 
 ## 🧠 Tecnologias e Ferramentas  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,github" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,github,html" />
 </p>
+
+---
 
 ## 🌐 Onde me Encontrar  
 <p align="center">
